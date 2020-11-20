@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192353797621",
+    "firebase_url": "https://itodo-bf8a2.firebaseio.com",
+    "project_id": "itodo-bf8a2",
+    "storage_bucket": "itodo-bf8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192353797621:android:f785644406b0cde96cccbc",
+        "android_client_info": {
+          "package_name": "com.example.itodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192353797621-eh5kd2dfsvvjipo70bdpvkm5c5fih8cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoiPpb5HbyqY20Q6fqHwpQ_Nj4V82YwiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192353797621-eh5kd2dfsvvjipo70bdpvkm5c5fih8cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
